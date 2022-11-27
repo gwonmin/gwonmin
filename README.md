@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70)
-<h3 align="center">I'm gonna be a full stack developer.</h3>
+<h2 align="center">I'm gonna be a full stack developer.</h2>
 
 <h3 align="center">🖥️ Tech Stack </h3>
 <h4 align="center"> Techs that i've used at once </h4>
