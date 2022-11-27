@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70)
 <h3 align="center">I'm gonna be a full stack developer.</h3>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🖥️ Tech Stack </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> 
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 Follow Me </h3>
 <p align="center">
   <a href="https://www.instagram.com/gwonmin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gwonmin/"/></a>
   </p>
