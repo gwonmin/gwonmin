@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
 <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=gwonmin&theme=tokyonight&show_icons=true" width="42%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gwonmin&theme=tokyonight&show_icons=true" width="55%"/>
 </a>
 
 <!--
