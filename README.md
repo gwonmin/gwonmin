@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=gwonmin&theme=tokyonight&show_icons=true" width="43%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gwonmin&theme=tokyonight&show_icons=true" width="45%"/>
 </a>
 <a herf="https://solved.ac/profile/sam12456/", target="_blank">
 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=sam12456>
