@@ -40,7 +40,7 @@
 </p>
 <p align="center">
 <a herf="https://solved.ac/profile/sam12456/", target="_blank">
-	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=sam12456>
+	<img src=http://mazassumnida.wtf/api/mini/generate_badge?boj=sam12456>
 </a>
 </p>
 <!--
