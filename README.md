@@ -30,12 +30,15 @@
   <a href="https://www.instagram.com/gwonmin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gwonmin/"/></a>
   </p>
 
-<a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=gwonmin&theme=tokyonight&show_icons=true" width="55%"/>
-</a>
+
 
 <p align="center">
-
+<a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=gwonmin&theme=tokyonight&show_icons=true" width="43%"/>
+</a>
+<a herf="https://solved.ac/profile/sam12456/", target="_blank">
+	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=sam12456>
+</a>
 </p>
 <!--
 **gwonmin/gwonmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
